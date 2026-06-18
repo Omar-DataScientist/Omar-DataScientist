@@ -1,5 +1,14 @@
 ## Hi there 👋
+<h1 align="center">Agentic AI Research & Engineering</h1>
 
+<p align="center">
+Building autonomous AI systems, multi-agent workflows, reasoning engines,
+and next-generation intelligent applications.
+</p>
+
+<p align="center">
+🚀 Agentic AI | 🤖 Multi-Agent Systems | 🧠 LLM Research | 🔍 RAG | 👁️ VLMs
+</p>
 <!--
 **Omar-DataScientist/Omar-DataScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
