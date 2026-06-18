@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey
 <h1 align="center">Agentic AI Research & Engineering</h1>
 
 <p align="center">
