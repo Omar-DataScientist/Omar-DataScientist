@@ -8,7 +8,7 @@
   ---
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=40&pause=1000&color=00B4DB&center=true&vCenter=true&width=800&height=50&lines=AI+RESEARCHER;RESEARCH+INTERN+%40+BITS+Pilani+DUBAI" alt="Omar Khan Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=40&pause=10&color=00B4DB&center=true&vCenter=true&width=800&height=50&lines=AI+RESEARCHER;RESEARCH+INTERN+%40+BITS+Pilani+DUBAI" alt="Omar Khan Roles" />
 
   <br/>
 
@@ -81,7 +81,7 @@
 
 ---
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&weight=600&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile.;Lets+Build+AI+for+tomorrow." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&weight=600&pause=0&color=00B4DB&center=true&vCenter=true&width=600&lines=Lets+Build+AI+for+tomorrow." />
 
 <div align="center">
   <hr style="height: 3px; border: none; background: linear-gradient(to right, #11998E, #38EF7D, #00B4DB); margin: 20px 0; width: 100%;" />
